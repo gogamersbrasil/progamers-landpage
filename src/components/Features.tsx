@@ -54,11 +54,12 @@ export default function Features() {
     },
   ];
   return (
-    <section className=" pt-6 bg-gaming-dark relative z-10">
+    <section className=" pt-10 bg-gaming-dark relative z-10">
       <div className="container mx-auto px-4 text-center mb-12">
-        <h2 className="text-3xl md:text-3xl font-bold mb-6 bg-gradient-to-r from-purple-700 to-blue-500 bg-clip-text text-transparent">
-          Recursos para Jogadores
-        </h2>
+        <h2 className="text-3xl mb-2 md:text-4xl font-bold bg-gradient-to-r from-red-600 to-red-400 bg-clip-text text-transparent">
+  Recursos para Jogadores
+</h2>
+
         <p className="text-xl text-gray-300 max-w-3xl mx-auto">
           Tudo o que você precisa para se tornar um jogador competitivo de
           elite.
