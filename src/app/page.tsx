@@ -4,6 +4,7 @@
 
 
 import Features from "@/components/Features";
+import Games from "@/components/Games";
 
 import Hero from "@/components/Hero";
 import StatsSection from "@/components/StatsSection";
@@ -18,6 +19,7 @@ export default function Home() {
       <Hero />
       <Features />
       <StatsSection />
+      <Games/>
 
     </div>
       

@@ -42,7 +42,7 @@ export default function Hero() {
 
       
       {showContent && (
-        <div className="mt-65 container mx-auto px-4 relative z-10 text-center">
+        <div className="mt-50 container mx-auto px-4 relative z-10 text-center">
           <div className="max-w-3xl mx-auto">
      
            
