@@ -1,7 +1,13 @@
+import MissionSection from "@/components/producers components/MissionSection";
+import ProducersHeroSection from "@/components/producers components/ProducersHeroSection";
+import SocialMediaSection from "@/components/SocialMediaSection";
+
 export default function Producers() {
   return (
-    <main>
-      <h1>Home</h1>
-    </main>
+    <div>
+      <ProducersHeroSection />
+      <MissionSection />
+      <SocialMediaSection />
+    </div>
   );
 }
