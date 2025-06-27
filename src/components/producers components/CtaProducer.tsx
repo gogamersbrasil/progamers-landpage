@@ -3,7 +3,7 @@ export default function CtaProducer() {
     <section className="bg-gaming-darker flex flex-col items-center justify-center">
       <div className="relative z-10 text-center px-4 py-15">
         <h1 className="text-center py-2 text-4xl  md:text-4xl font-bold  text-white">
-          ProximosPronto para Impulsionar sua Presença nos E-sports?
+          Pronto para Impulsionar sua Presença nos E-sports?
         </h1>
         <p className="text-xl text-gray-300 max-w-2xl mx-auto ">
           Participe dos maiores torneios de e-sports e conquiste prêmios
